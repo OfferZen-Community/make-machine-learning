@@ -34,17 +34,17 @@ With your Google account you should be able to login to [Colaboratory](https://c
 
 You'll see a screen like this:
 
-![Screenshot 1](./screen_shot_1.png)
+![Screenshot 1](./screenshot_1.png)
 
 We recommend that you go through the information in the Examples section before coming to the Make Day.
 
 In the Github section enter the Make Machine Learning URL `https://github.com/OfferZen-Make/make-machine-learning` and select the Github repo to clone it
 
-![Screenshot 2](./screen_shot_2.png)
+![Screenshot 2](./screenshot_2.png)
 
 You should now see a Jupyter Notebook. Select `Runtime -> Run All` in the notebook menu bar and make sure that everything runs as it should. If so, great! If not, please send an email `helge@offerzen.com`.
 
-![Screenshot 3](./screen_shot_3.png)
+![Screenshot 3](./screenshot_3.png)
 
 That's all, you're ready for Make Day!
 
