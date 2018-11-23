@@ -1,8 +1,8 @@
-# Machine Learning with Scikit-Learn and TensorFlow
+# Machine Learning with TensorFlow
 
 # Hello
 
-We're excited to have you join this course, where you'll be building machine learning models for image classification using Scikit-learn and Tensorflow.
+We're excited to have you join this course, where you'll be building machine learning models for image classification using Tensorflow.
 
 The aim of Make Days is to explore and learn new thing. You don't need to achieve specific goals. The structure caters for varying levels of experience and different Makers will learn different things by playing with the same tools.
 
@@ -53,7 +53,6 @@ That's all, you're ready for Make Day!
 ## Useful resources
 - [OfferZen Make Subreddit](https://www.reddit.com/r/offerzenmake): check it out and upvote any answers you find useful. Feel free to add your own questions and comments!
 - [Tensorflow documentation](https://www.tensorflow.org/api_docs/)
-- [Scikit-learn documentation](http://scikit-learn.org/stable/documentation.html)
 - [Fast AI courses and code](https://www.fast.ai/)
 
 *Know somebody who would enjoy this course? Tell your friends to [register here.](https://docs.google.com/forms/d/e/1FAIpQLSd9T-N8K519J89ohbLSZ17OebjLrwRhy9hXnSDRcPXEDM0dEQ/viewform?usp=sf_link)
