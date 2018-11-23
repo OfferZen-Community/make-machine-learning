@@ -20,6 +20,7 @@ Makers that arrive well prepared get the most out of their experience. Before yo
 Time at a Make Day is valuable! Arrive well prepared to get the most out of it.
 
 - [ ] Read [Machine Learning in 5 minutes](https://medium.com/@vashkelis/machine-learning-in-5-minutes-9a6cce23ce7e)
+- [ ] Read [Introduction to Deep Learning](https://www.datasciencecentral.com/profiles/blogs/introduction-to-deep-learning)
 - [ ] Play around in the [Tensorflow Playground](https://playground.tensorflow.org)
 - [ ] Watch [*What a Convolution Neural Network sees in the image?*](https://www.youtube.com/watch?v=0pnaB7ptu50) and [play around with this tool yourself](http://www.cs.cmu.edu/~aharley/vis/conv/)
 - [ ] [Set up Colaboratory](#set-up-colaboratory)
