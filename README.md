@@ -19,10 +19,12 @@ Makers that arrive well prepared get the most out of their experience. Before yo
 
 Time at a Make Day is valuable! Arrive well prepared to get the most out of it.
 
-- [ ] [Set up Colaboratory](#set-up-colaboratory)
 - [ ] Read [Machine Learning in 5 minutes](https://medium.com/@vashkelis/machine-learning-in-5-minutes-9a6cce23ce7e)
+- [ ] Play around in the [Tensorflow Playground](https://playground.tensorflow.org)
+- [ ] Watch [*What a Convolution Neural Network sees in the image?*](https://www.youtube.com/watch?v=0pnaB7ptu50) and [play around with this tool yourself](http://www.cs.cmu.edu/~aharley/vis/conv/)
+- [ ] [Set up Colaboratory](#set-up-colaboratory)
 
-## Set up colaboratory
+## Set up Colaboratory
 
 [Colaboratory](https://colab.research.google.com) from Google is a Jupyter notebook environment that requires no setup and runs entirely in the cloud making it ideal for tutorials and workshops as no installation is necessary to get started.
 
